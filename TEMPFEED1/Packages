@@ -1,0 +1,62 @@
+﻿Architecture: windows_x64
+CompatibilityVersion: 260800
+Conflicts: 1bebed5e-7f4f-4c30-8c65-b2184919759a (<<16.0.999)
+Description: Installs license and notice files.
+DisplayName: NI EULADepot
+DisplayVersion: 2026 Q4
+Filename: ni-euladepot_26.8.0.9999-0+d9999_windows_x64.nipkg
+Homepage: https://www.ni.com
+MD5sum: c295bbdb66af4522c3c0c19605b3cb1f
+Maintainer: National Instruments <support@ni.com>
+OsRequires: >= 10.0.14393
+OsSupport: WINDOWS_11 WINDOWS_SERVER_2025 WINDOWS_SERVER_2022 WINDOWS_10_IOT_ENTERPRISE_2021
+Package: ni-euladepot
+Plugin: wininst
+Priority: standard
+Provides: 1bebed5e-7f4f-4c30-8c65-b2184919759a (=26.80.9999)
+Replaces: 1bebed5e-7f4f-4c30-8c65-b2184919759a (<<16.0.999)
+SHA256: 4d23133104c6f6597fa31bba2dac754a00263f4f0cff8b6d638e65664e122cbb
+Section: Infrastructure
+Size: 18447438
+Version: 26.8.0.9999-0+d9999
+
+Architecture: windows_x64
+CompatibilityVersion: 260800
+Conflicts: 1bebed5e-7f4f-4c30-8c65-b2184919759a (<<16.0.999)
+Description: Installs license and notice files.
+DisplayName: NI EULADepot
+DisplayVersion: 2027 Q1
+Filename: ni-euladepot_27.0.0.9999-0+d9999_windows_x64.nipkg
+Homepage: https://www.ni.com
+MD5sum: 2cc8fd83201cc77c6968389917121aac
+Maintainer: National Instruments <support@ni.com>
+OsRequires: >= 10.0.14393
+OsSupport: WINDOWS_11 WINDOWS_SERVER_2025 WINDOWS_SERVER_2022 WINDOWS_10_IOT_ENTERPRISE_2021
+Package: ni-euladepot
+Plugin: wininst
+Priority: standard
+Provides: 1bebed5e-7f4f-4c30-8c65-b2184919759a (=27.00.9999)
+Replaces: 1bebed5e-7f4f-4c30-8c65-b2184919759a (<<16.0.999)
+SHA256: 966772ba0df4024d2352dfc96f5e8fce53852db576406d5913fee77fdd02c586
+Section: Infrastructure
+Size: 18484424
+Version: 27.0.0.9999-0+d9999
+
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 260000
+Description: This is test-package
+DisplayName: test-package
+Filename: test-package_1.0.0.0_windows_x64.nipkg
+MD5sum: 1606588e531ca2d840c93747301e23ac
+Maintainer: MyCompany <email@mycompany.com>
+Package: test-package
+Plugin: file
+SHA256: a1ed4b0294e986ca046c7ba3592b537b9c743b1c3cd006ade89a14bc56381d25
+Section: Application Software
+Size: 872
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+
